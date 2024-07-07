@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adilsyed003
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Web design , web development & deployment
 - 📫 How to reach me adilabraarsyed2803@gmail.com
 - 😄 Pronouns: he/him
