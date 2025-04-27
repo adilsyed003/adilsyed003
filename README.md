@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=adilsyed003&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=adilsyed003&theme=radical" alt="Streak Stats"/>
 </td>
 <td>
   <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsyed003&layout=compact" alt="Streak Stats"/>
