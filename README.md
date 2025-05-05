@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 - 🔭 I’m currently building **Baax**
 -->
-- 🌱 I’m currently learning **GenAi**
+- 🌱 I’m currently learning **Python,AI**
 
 - 👨‍💻 All of my projects are available at [adilsyed.me](https://adilsyed.me)
 
